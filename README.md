@@ -1,0 +1,2 @@
+# smpAlgorithms
+some simple algorithms
